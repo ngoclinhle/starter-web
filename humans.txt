@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    LinhLN6 linhln6@abc.com
 # THANKS
 
     <name>
