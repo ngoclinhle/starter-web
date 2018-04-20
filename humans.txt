@@ -6,7 +6,8 @@
     LinhLN6 linhln6@abc.com
 # THANKS
 
-    <name>
+    all students
+
 
 # TECHNOLOGY COLOPHON
 
